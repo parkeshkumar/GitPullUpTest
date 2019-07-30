@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     private void setGit(){
         int i=0;
     }
-    private void setGit2(){
+    private void setGit3(){
         int i=0;
     }
 }
