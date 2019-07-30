@@ -11,5 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.i("Message","Hello Git");
+        Log.i("Message","Hello Git2");
+        Log.i("Message","Hello Git3");
     }
 }
