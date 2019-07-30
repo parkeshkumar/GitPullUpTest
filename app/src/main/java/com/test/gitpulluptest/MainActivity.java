@@ -14,4 +14,7 @@ public class MainActivity extends AppCompatActivity {
         Log.i("Message","Hello Git2");
         Log.i("Message","Hello Git3");
     }
+    private void setGit(){
+        int i=0;
+    }
 }
